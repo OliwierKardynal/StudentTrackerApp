@@ -9,5 +9,7 @@ public class StudentApp {
         names.add("John");
         names.add("Jane");
         names.add("Julie");
+
+        System.out.println("First name is " + names.get(1));
     }
 }
